@@ -8,7 +8,6 @@
 5. run putty and mention the public ip address of ec2
 6. add ssh->auth->browse->add the saved ppk file
 7. open
-------------------------------------------------------------------------------------------------------
 
 #installing docker on ec2
 
