@@ -8,10 +8,8 @@
 5. run putty and mention the public ip address of ec2
 6. add ssh->auth->browse->add the saved ppk file
 7. open
-
-#installing docker on ec2
-
-
+--------------------------------------------------------------------------------------------------------
+installing docker on ec2
 
 1. sudo yum update -y
 2. sudo yum install docker -y
