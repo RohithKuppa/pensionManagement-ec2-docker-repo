@@ -10,7 +10,7 @@
 7. open
 ------------------------------------------------------------------------------------------------------
 
-installing docker on ec2
+#installing docker on ec2
 
 
 
@@ -23,7 +23,7 @@ sudo usermod -a -G docker ec2-user
 
 ------------------------------------------------------------------------------------------------------------
 
-Installing Java
+#Installing Java
 
 sudo amazon-linux-extras install java-openjdk11
 
